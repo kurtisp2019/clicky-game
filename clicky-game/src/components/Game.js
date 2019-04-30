@@ -1,6 +1,6 @@
 /**
  * 
- *      clickyGame.js (component)
+ *      Game.js (component)
  * 
  */
 
