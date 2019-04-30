@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/clicky-game/static/js/main.a1e2a2a3.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.a1e2a2a3.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
+    "static/js/2.f30538a5.chunk.js": "/clicky-game/static/js/2.f30538a5.chunk.js",
+    "static/js/2.f30538a5.chunk.js.map": "/clicky-game/static/js/2.f30538a5.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.476b6876f2436b6896bcc3b19bc97428.js": "/clicky-game/precache-manifest.476b6876f2436b6896bcc3b19bc97428.js",
+    "service-worker.js": "/clicky-game/service-worker.js"
+  }
+}
